@@ -1,0 +1,33 @@
+[
+    {
+      "id": "machine-learning",
+      "title": "Machine Learning",
+      "category": "Artificial Intelligence",
+      "topics": [
+        "Math Basics (Linear Algebra, Calculus, Probability, Statistics)",
+        "Python Programming",
+        "Python Libraries (NumPy, Pandas, Matplotlib, Seaborn)",
+        "Data Preprocessing & Cleaning",
+        "Exploratory Data Analysis (EDA)",
+        "Supervised Learning (Regression, Classification)",
+        "Unsupervised Learning (Clustering, Dimensionality Reduction)",
+        "Model Evaluation Metrics (Accuracy, F1-Score, etc.)",
+        "Scikit-Learn",
+        "Feature Engineering & Selection",
+        "Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)",
+        "Cross-Validation Techniques",
+        "Machine Learning Pipelines",
+        "Real-world Dataset Practice (e.g., Titanic, Iris, MNIST)",
+        "Ensemble Techniques (Bagging, Boosting, Random Forest)",
+        "Introduction to Deep Learning",
+        "Neural Networks & TensorFlow/Keras",
+        "Computer Vision Basics (OpenCV, CNNs)",
+        "NLP Basics (Text Preprocessing, Word Embeddings)",
+        "Model Deployment (Flask, Streamlit, FastAPI)",
+        "ML Model Hosting (Render, Hugging Face, AWS, etc.)",
+        "Version Control (DVC, Git)",
+        "Experiment Tracking (MLflow, Weights & Biases)"
+      ]
+    }
+  ]
+  

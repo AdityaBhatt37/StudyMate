@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Here are 10 highly recommended JavaScript YouTube video titles",
+    "videoId": "5-oiLKEWIEw",
+    "thumbnail": "https://i.ytimg.com/vi/5-oiLKEWIEw/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,JS,Beginner Course,ES6"
+  },
+  {
+    "title": "JavaScript Full Course for Beginners",
+    "videoId": "PkZNo7MFNFg",
+    "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Beginner,Full Course,Web Development"
+  },
+  {
+    "title": "JavaScript Crash Course For Beginners",
+    "videoId": "hdI2bqOjy3c",
+    "thumbnail": "https://i.ytimg.com/vi/hdI2bqOjy3c/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Crash Course,Basics,Web Development"
+  },
+  {
+    "title": "Learn JavaScript - Full Course for Beginners",
+    "videoId": "PkZNo7MFNFg",
+    "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Full Course,Programming,Beginners"
+  },
+  {
+    "title": "JavaScript ES6 Tutorial",
+    "videoId": "NCwa_xi0Uuc",
+    "thumbnail": "https://i.ytimg.com/vi/NCwa_xi0Uuc/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,ES6,Modern JS,ES6 Features"
+  },
+  {
+    "title": "Asynchronous JavaScript Crash Course - Callbacks",
+    "videoId": "PoRJizFvM7s",
+    "thumbnail": "https://i.ytimg.com/vi/PoRJizFvM7s/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Async,Callbacks,Asynchronous"
+  },
+  {
+    "title": "Promises",
+    "videoId": "ClJMOWu4Kno",
+    "thumbnail": "https://i.ytimg.com/vi/ClJMOWu4Kno/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Promises,Async,Web Development"
+  },
+  {
+    "title": "Async Await",
+    "videoId": "vn3tm0quoqE",
+    "thumbnail": "https://i.ytimg.com/vi/vn3tm0quoqE/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Async Await,ES8,Asynchronous"
+  },
+  {
+    "title": "JavaScript Project Tutorial: Build a Quiz App",
+    "videoId": "PBcqGxrr9g8",
+    "thumbnail": "https://i.ytimg.com/vi/PBcqGxrr9g8/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Projects,Quiz App,DOM"
+  },
+  {
+    "title": "JavaScript DOM Manipulation Tutorial",
+    "videoId": "IWRS_AM2fiE",
+    "thumbnail": "https://i.ytimg.com/vi/IWRS_AM2fiE/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,DOM,Web Development,Frontend"
+  },
+  {
+    "title": "10 JavaScript Tips and Tricks That Will Make You a Pro",
+    "videoId": "qC-Yadx3O4A",
+    "thumbnail": "https://i.ytimg.com/vi/qC-Yadx3O4A/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Tips and Tricks,Advanced JS,Coding Tips"
+  },
+  {
+    "title": "JavaScript Pro Tips - Code This",
+    "videoId": "Mus_vwhTCq0",
+    "thumbnail": "https://i.ytimg.com/vi/Mus_vwhTCq0/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Pro Tips,Developer Tips,Code Smarter"
+  },
+  {
+    "title": "NOT That!\nThe JavaScript Survival Guide\nJavaScript for Web Development - Full Tutorial\nJavaScript Interview Questions and Answers\nJavaScript Algorithms and Data Structures Masterclass\nJavaScript Design Patterns",
+    "videoId": "lkIFF4maKMU",
+    "thumbnail": "https://i.ytimg.com/vi/lkIFF4maKMU/mqdefault.jpg",
+    "platform": "youtube",
+    "type": "course",
+    "tags": "JavaScript,Survival Guide,Interview Prep,Algorithms,Design Patterns"
+  }
+]

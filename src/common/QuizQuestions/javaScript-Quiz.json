@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Which of the following is a JavaScript data type?",
+    "options": ["Boolean", "Float", "Character", "Decimal"],
+    "answer": "Boolean"
+  },
+  {
+    "question": "Which symbol is used for comments in JavaScript?",
+    "options": ["//", "/*", "<!-- -->", "#"],
+    "answer": "//"
+  },
+  {
+    "question": "How do you define a function in JavaScript?",
+    "options": ["function myFunc()", "def myFunc()", "func myFunc()", "function:myFunc()"],
+    "answer": "function myFunc()"
+  }
+]
+

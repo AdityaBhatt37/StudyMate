@@ -1,0 +1,29 @@
+[
+    {
+      "id": "backend-developer",
+      "title": "Backend Developer",
+      "category": "Web Development",
+      "topics": [
+        "Internet & HTTP Basics",
+        "Terminal & Command Line",
+        "Git & GitHub",
+        "Backend Language (Node.js, Python, Java, etc.)",
+        "Working with Databases (SQL & NoSQL)",
+        "RESTful APIs",
+        "Authentication & Authorization",
+        "File Handling & Uploads",
+        "Middlewares",
+        "Error Handling & Logging",
+        "Security Best Practices (Helmet, CORS, Rate Limiting)",
+        "Environment Variables & Config",
+        "Async/Await & Promises",
+        "Caching (Redis/Memcached)",
+        "Testing (Unit & Integration)",
+        "API Documentation (Swagger/Postman)",
+        "Database Migrations & ORM (Prisma, Sequelize, etc.)",
+        "Cloud Deployment (Render, Railway, AWS, etc.)",
+        "CI/CD Concepts"
+      ]
+    }
+  ]
+  

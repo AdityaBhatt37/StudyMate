@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which CSS property is used to change the background color?",
+    "options": ["color", "background-color", "bgcolor", "background"],
+    "answer": "background-color"
+  },
+  {
+    "question": "How do you select an element with id 'header' in CSS?",
+    "options": ["#header", ".header", "header", "*header"],
+    "answer": "#header"
+  }
+]

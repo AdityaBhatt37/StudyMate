@@ -1,0 +1,29 @@
+[
+    {
+    "id": "data-science",
+    "title": "Data Science Roadmap",
+    "category": "Data Science",
+    "topics": [
+      "Math Basics (Linear Algebra, Calculus, Probability, Statistics)",
+      "Python Programming Basics",
+      "Python Libraries (NumPy, Pandas)",
+      "Data Analysis with Pandas",
+      "Data Visualization (Matplotlib, Seaborn)",
+      "Data Cleaning & Preprocessing",
+      "Exploratory Data Analysis (EDA)",
+      "SQL for Data Science",
+      "Supervised Learning Algorithms (Regression, Classification)",
+      "Unsupervised Learning Algorithms (Clustering, Dimensionality Reduction)",
+      "Model Evaluation Metrics (Accuracy, F1-Score, etc.)",
+      "Scikit-learn",
+      "Feature Engineering & Selection",
+      "Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)",
+      "Cross-Validation Techniques",
+      "Machine Learning Pipelines",
+      "Capstone Project: End-to-End Data Science Project",
+      "Introduction to Deep Learning (Neural Networks)",
+      "Deep Learning Frameworks (TensorFlow, PyTorch)"
+    ]
+  }
+]
+  

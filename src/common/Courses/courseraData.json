@@ -1,0 +1,48 @@
+[
+    {
+      "title": "React Basics",
+      "courseId" : "React-coursera-1",
+      "videoLink": "https://www.coursera.org/learn/react-basics",
+      "thumbnail": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2e/289c392ddc43f2a1c5840cdb8d0cec/iOS-dev8.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=320",
+      "platform": "Coursera",
+       "type": "course",
+       "tags": "React,React Course,Redux,redux-router"
+    },
+    {
+      "title": "Advanced React",
+      "courseId" : "React-coursera-2",
+      "videoLink": "https://www.coursera.org/learn/advanced-react",
+      "thumbnail": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/bf/0b0c4e3cb74bd59cf0eb5d448e355a/front-end-dev6.png?auto=format%2C%20compress%2C%20enhance&dpr=2&w=320&h=180&fit=crop&q=50",
+      "platform": "Coursera",
+       "type": "course",
+       "tags": "React,React Course,Redux,redux-router"
+    },
+    {
+      "title": "Learn React",
+      "courseId" : "React-coursera-3",
+      "videoLink": "https://www.coursera.org/learn/learn-react",
+      "thumbnail":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f5/06f6be8fda4d0b9a5e223fb99531d9/reactttt.jpg?auto=format%2C%20compress%2C%20enhance&dpr=2&w=320&h=180&fit=crop&q=50",
+      "platform": "Coursera",
+       "type": "course",
+       "tags": "React,React Course,Redux,redux-router"
+    },
+    {
+      "title": "Developing Front-End Apps with React",
+      "courseId" : "React-coursera-4",
+      "videoLink": "https://www.coursera.org/learn/developing-frontend-apps-with-react",
+      "thumbnail": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1e/2bda9c79d7460e9659058a3498b759/React.jpg?auto=format%2C%20compress%2C%20enhance&dpr=2&w=320&h=180&fit=crop&q=50",
+      "platform": "Coursera",
+       "type": "course",
+       "tags": "React,React Course,Redux,redux-router"
+    },
+    {
+      "title": "Build Your First React Website",
+      "courseId" : "React-coursera-5",
+      "videoLink": "https://www.coursera.org/projects/build-first-react-website",
+      "thumbnail": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2e/289c392ddc43f2a1c5840cdb8d0cec/iOS-dev8.png?auto=format%2C%20compress%2C%20enhance&dpr=2&w=320&h=180&fit=crop&q=50",
+      "platform": "Coursera",
+       "type": "course",
+       "tags": "React,React Course,Redux,redux-router"
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+[
+    {
+      "id": "frontend-developer",
+      "title": "Frontend Developer",
+      "category": "Web Development",
+      "topics": [
+        "HTML Basics",
+        "CSS Fundamentals",
+        "Responsive Design",
+        "JavaScript Basics",
+        "DOM Manipulation",
+        "ES6+ Features",
+        "Fetch API / Axios",
+        "Version Control (Git)",
+        "Package Managers (npm/yarn)",
+        "Build Tools (Vite, Webpack)",
+        "CSS Frameworks (Tailwind, Bootstrap)",
+        "JavaScript Frameworks (React)",
+        "React Hooks & Router",
+        "State Management (Redux, Context API)",
+        "Form Handling",
+        "Authentication (Firebase/Auth0)",
+        "Performance Optimization",
+        "Deployment (Vercel/Netlify)"
+      ]
+    }
+  ]
+  

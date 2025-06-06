@@ -35,6 +35,7 @@
 
 ## 📂 Folder Structure
 
+```bash
 StudyMate/
 ├── public/
 ├── src/
@@ -47,6 +48,7 @@ StudyMate/
 ├── firebase.json
 ├── package.json
 └── vite.config.js
+```
 
 
 ---

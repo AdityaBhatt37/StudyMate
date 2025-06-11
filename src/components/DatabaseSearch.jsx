@@ -155,7 +155,7 @@ function DatabaseSearch() {
     );
 
   return (
-    <div className="min-h-screen bg-gray-100 pt-24 px-4 md:px-8">
+    <div className="min-h-screen bg-white pt-24 px-4 md:px-8">
       {/* Search Bar */}
       <div className="mb-10 max-w-2xl mx-auto">
         <input

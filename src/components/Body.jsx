@@ -22,7 +22,7 @@ function Body() {
           // ...
           const {uid,email} = user;
           dispatch(addUser({uid:uid,email:email}));
-          navigate("/browse");
+          navigate("/home");
     
         } else {
           // User is signed out
@@ -35,7 +35,7 @@ function Body() {
   },[])
  
   return (
-    <div>
+    <div className="bg-gray-100">
       <Header />
 
       <Outlet />

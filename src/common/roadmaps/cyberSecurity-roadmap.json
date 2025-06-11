@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cybersecurity",
+    "title": "Cybersecurity",
+    "category": "Information Security",
+    "topics": [
+      "Basics of Cybersecurity & Terminologies",
+      "Networking Fundamentals (TCP/IP, OSI Model)",
+      "Operating Systems Basics (Linux & Windows)",
+      "Virtualization & Sandboxing (VirtualBox, VMWare)",
+      "Cryptography (Symmetric & Asymmetric)",
+      "Firewalls, VPNs, and Proxies",
+      "Common Threats & Attacks (Phishing, DDoS, Malware, etc.)",
+      "Web Security (OWASP Top 10)",
+      "Vulnerability Assessment & Penetration Testing",
+      "Tools (Nmap, Wireshark, Metasploit, Burp Suite, etc.)",
+      "Password Cracking & Brute Force Attacks",
+      "Social Engineering",
+      "Security Information & Event Management (SIEM)",
+      "Incident Response & Handling",
+      "Forensics & Log Analysis",
+      "Secure Coding Practices",
+      "Bug Bounty & Responsible Disclosure",
+      "Compliance & Legal (GDPR, HIPAA, etc.)",
+      "CTFs & Practice Platforms (TryHackMe, HackTheBox)",
+      "Career Paths (SOC Analyst, Pen Tester, Red Team, etc.)"
+    ]
+  }
+]

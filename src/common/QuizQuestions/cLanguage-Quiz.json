@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the father of the C programming language?",
+    "options": [
+      "James Gosling",
+      "Bjarne Stroustrup",
+      "Dennis Ritchie",
+      "Guido van Rossum"
+    ],
+    "correctAnswer": "Dennis Ritchie"
+  },
+  {
+    "question": "Which symbol is used to end a statement in C?",
+    "options": [
+      ":",
+      ".",
+      ";",
+      "#"
+    ],
+    "correctAnswer": ";"
+  },
+  {
+    "question": "Which data type is used to store whole numbers in C?",
+    "options": [
+      "float",
+      "char",
+      "int",
+      "double"
+    ],
+    "correctAnswer": "int"
+  },
+  {
+    "question": "Which function is used to display output in C?",
+    "options": [
+      "print()",
+      "output()",
+      "printf()",
+      "disp()"
+    ],
+    "correctAnswer": "printf()"
+  },
+  {
+    "question": "What is the correct syntax to take input from the user in C?",
+    "options": [
+      "cin >> var;",
+      "input(var);",
+      "scanf(\"%d\", &var);",
+      "read(var);"
+    ],
+    "correctAnswer": "scanf(\"%d\", &var);"
+  }
+]

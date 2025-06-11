@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who invented Java programming language?",
+    "options": [
+      "Bjarne Stroustrup",
+      "Guido van Rossum",
+      "Dennis Ritchie",
+      "James Gosling"
+    ],
+    "correctAnswer": "James Gosling"
+  },
+  {
+    "question": "What is the extension of Java bytecode files?",
+    "options": [
+      ".java",
+      ".byte",
+      ".class",
+      ".jv"
+    ],
+    "correctAnswer": ".class"
+  },
+  {
+    "question": "Which keyword is used to create a class in Java?",
+    "options": [
+      "define",
+      "class",
+      "struct",
+      "new"
+    ],
+    "correctAnswer": "class"
+  },
+  {
+    "question": "Which method is the entry point of a Java program?",
+    "options": [
+      "start()",
+      "main()",
+      "run()",
+      "init()"
+    ],
+    "correctAnswer": "main()"
+  },
+  {
+    "question": "Which of the following is not a Java keyword?",
+    "options": [
+      "this",
+      "final",
+      "delete",
+      "static"
+    ],
+    "correctAnswer": "delete"
+  }
+]

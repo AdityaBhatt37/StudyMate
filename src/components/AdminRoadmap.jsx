@@ -43,7 +43,7 @@ const AdminRoadmap = () => {
   };
 
   return (
-    <div className="max-w-xl mx-auto p-6 mt-10 border shadow rounded">
+    <div className="max-w-xl mx-auto p-6 mt-10 border shadow rounded bg-white">
       <h2 className="text-2xl font-bold mb-4">📤 Upload Roadmap via JSON</h2>
 
       <input

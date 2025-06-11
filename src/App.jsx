@@ -11,6 +11,7 @@ import AdminLogin from "./components/AdminLogin";
 import Roadmap from "./components/Roadmap";
 import SubjectSelector from "./components/SubjectSelector";
 import Home from "./components/Home";
+import Contact from "./components/Contact.jsx"
 
 
 function App() {
@@ -50,6 +51,10 @@ function App() {
           {
             path: '/quiz',
             element: <SubjectSelector/>
+          },
+          {
+            path: '/contact',
+            element: <Contact/>
           }
         ]
    

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the correct file extension for Python files?",
+    "options": [
+      ".pt",
+      ".pyt",
+      ".py",
+      ".python"
+    ],
+    "correctAnswer": ".py"
+  },
+  {
+    "question": "Which keyword is used to create a function in Python?",
+    "options": [
+      "function",
+      "def",
+      "fun",
+      "define"
+    ],
+    "correctAnswer": "def"
+  },
+  {
+    "question": "How do you print something in Python?",
+    "options": [
+      "echo()",
+      "printf()",
+      "print()",
+      "disp()"
+    ],
+    "correctAnswer": "print()"
+  },
+  {
+    "question": "Which data type is used to store text in Python?",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correctAnswer": "str"
+  },
+  {
+    "question": "Which symbol is used to start a comment in Python?",
+    "options": [
+      "//",
+      "<!--",
+      "#",
+      "/*"
+    ],
+    "correctAnswer": "#"
+  }
+]

@@ -46,9 +46,9 @@ function Header() {
             <Link to="/quiz" className="hover:text-indigo-600 transition">
               Quiz
             </Link>
-            <a href="#contact" className="hover:text-indigo-600 transition">
+            <Link to="/contact" className="hover:text-indigo-600 transition">
               Contact
-            </a>
+            </Link>
           </nav>
         )}
 

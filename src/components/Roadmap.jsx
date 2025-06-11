@@ -98,7 +98,7 @@ const Roadmap = () => {
   );
 
   return (
-    <div className="p-4 max-w-3xl mx-auto mt-20">
+    <div className="p-4 max-w-3xl mx-auto mt-20 ">
       <h1 className="text-2xl font-bold mb-4">Roadmaps</h1>
 
       <input

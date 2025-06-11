@@ -4,7 +4,7 @@ import AiSearchContainer from "./AiSearchContainer";
 const Browse = () => {
 
   return (
-   <div>
+   <div className="bg-white">
 
     <AiSearchContainer/>
     <ResultContainer/>
